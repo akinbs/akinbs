@@ -14,9 +14,6 @@ education: Duzce Unıversity
   [
     "Computer Engineer student",
     "Jr. Full Stack Developer",
-    "Former basketball athlete", 
-    "American football athlete",
-    
   ]
 
 fields_of_interests:
