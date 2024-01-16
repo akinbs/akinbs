@@ -27,8 +27,8 @@ fields_of_interests:
   ]
 
   
-currently_learning: ["Unity, Deep Learning, Flutter"]
-2023 Goals: ["Create 20+ Projects"]
+currently_learning: ["Unity, Deep Learning, Solana, Data Science"]
+2024 Goals: ["Create 20+ Projects"]
 hobbies: ["Gaming", "Sports", "Coding", "Travel", "Politics"]
 ``` 
 ---  
