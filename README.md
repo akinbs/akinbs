@@ -10,7 +10,7 @@
 ```yaml
 name: Akın BAŞ
 located_in: Istanbul, Turkey
-education: Duzce Unıversity
+education: Duzce University
   [
     "Computer Engineer student",
     "Jr. Full Stack Developer",
