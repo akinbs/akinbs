@@ -1,66 +1,90 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=HEY%20EVERYONE!&fontSize=70" />
- </p> 
- <p align="center">
-  <img height="400" src="https://media.giphy.com/media/lPoxtQlcX30doRbHTN/giphy.gif">
- </p> 
-<h2> 👨🏻‍💻 &nbsp;ABOUT ME</h2> 
 
+<!-- Başlık Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Akın!&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=50&fontColor=ffffff"/>
+</p>
+
+<!-- Profil GIF'i -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" />
+</p>
+
+---
+
+## 👨🏻‍💻 About Me
 
 ```yaml
 name: Akın BAŞ
-located_in: Istanbul, Turkey
-education: Duzce University
-  [
-    "Computer Engineer student",
-    "Jr. Full Stack Developer",
-  ]
+from: Istanbul, Turkey 🇹🇷
+education: Computer Engineering @ Duzce University
+role: Jr. Full Stack Developer
+tech_stack: React.js, Python, AWS, Flutter, C#
+currently_learning: ["Deep Learning", "DevOps", "TypeScript"]
+goals_2024: ["🚀 Build 20+ Projects", "🎯 Start a SaaS Product"]
+interests: ["AI", "Web Development", "Startups", "Open Source"]
+hobbies: ["Gaming", "Running", "Politics", "Coding", "Traveling"]
+```
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Artificial Intelligence",
-    "Deep Learning",
-    "Mobile Development",
-    "AWS",
-    
-  ]
+---
 
-  
-currently_learning: ["React.js, Deep Learning, AWS, Start-Up Company"]
-2024 Goals: ["Create 20+ Projects"]
-hobbies: ["Gaming", "Sports", "Coding", "Travel", "Politics"]
-``` 
----  
+## 🛠️ Tech Toolbox
 
-<h2> 🚀 &nbsp;TOOLS</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="50" height="50"/>
-          
-          
- 
-          
-          
-          
-</p> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,py,django,flutter,dart,html,css,bootstrap,mysql,sqlite,aws,vscode,git,github,linux,matlab" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akinbs&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinbs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akinbs&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Contribution Map
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinbs&theme=monokai" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akinbs&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=7"/>
+</p>
+
+---
+
+## 🧠 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akinbs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:akinbas2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/akinbs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
