@@ -39,8 +39,8 @@ hobbies: ["Gaming", "Running", "Politics", "Coding", "Traveling"]
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinbs&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=7200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinbs&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com/?user=akinbs&theme=tokyonight&hide_border=true)
 
