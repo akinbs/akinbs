@@ -35,16 +35,47 @@ hobbies: ["Gaming", "Running", "Politics", "Coding", "Traveling"]
 
 ---
 
-## 🔥 GitHub Activity
+## 🔥 GitHub Activity & Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinbs&theme=tokyonight" 
+    alt="Akın's GitHub Profile Summary"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinbs&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akinbs&theme=tokyonight" 
+    width="48%" 
+    alt="Akın's GitHub Stats"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akinbs&theme=tokyonight&utcOffset=3" 
+    width="48%" 
+    alt="Akın's Productive Time"
+  />
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=akinbs&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akinbs&theme=tokyonight" 
+    width="48%" 
+    alt="Top Languages by Repository"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akinbs&theme=tokyonight" 
+    width="48%" 
+    alt="Top Languages by Commit"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=akinbs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" 
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
