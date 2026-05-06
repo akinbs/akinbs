@@ -77,19 +77,6 @@ hobbies: ["Gaming", "Running", "Politics", "Coding", "Traveling"]
   />
 </p>
 
----
-
-## 🌍 Contribution Map
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinbs&theme=monokai" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akinbs&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=7"/>
-</p>
-
----
 
 ## 🧠 Quote of the Day
 
